@@ -3,11 +3,19 @@
     font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
+.adjust-font-size {
+    font-size: 24px;
+}
 
 #two {
     color: blue;
     font-size: 36px;
 }
+
+/* 
+    As the font size in 3 and 4 are the same as the selector, 
+    it has been omitted to shorten the code.
+*/
 
 #four {
     background-color: lightgreen;
